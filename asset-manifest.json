@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/Chaitanya1301/portfolio-website/static/css/main.0b3541c4.css",
+    "main.js": "/Chaitanya1301/portfolio-website/static/js/main.0d9b76b6.js",
+    "static/media/todo.png": "/Chaitanya1301/portfolio-website/static/media/todo.69e39942b3b94698602e.png",
+    "static/media/expense-tracker-app.png": "/Chaitanya1301/portfolio-website/static/media/expense-tracker-app.6c48a86e89b5fea48b7a.png",
+    "static/media/Wheather.png": "/Chaitanya1301/portfolio-website/static/media/Wheather.50dcc598fbd1938441d7.png",
+    "static/media/Algorthims.png": "/Chaitanya1301/portfolio-website/static/media/Algorthims.095fd49371f148e20f51.png",
+    "static/media/hms.png": "/Chaitanya1301/portfolio-website/static/media/hms.41083f10d892866c68de.png",
+    "static/media/url.png": "/Chaitanya1301/portfolio-website/static/media/url.46743299fa3c2e4db462.png",
+    "static/media/Chaitanya_Ginnela_Resume.pdf": "/Chaitanya1301/portfolio-website/static/media/Chaitanya_Ginnela_Resume.6f1484c534bd7bed5fe6.pdf",
+    "static/media/Amazon.png": "/Chaitanya1301/portfolio-website/static/media/Amazon.0a8644388dd4f3f8751e.png",
+    "static/media/vtr.png": "/Chaitanya1301/portfolio-website/static/media/vtr.7e407f6da2489277e2e3.png",
+    "static/media/hero-image.png": "/Chaitanya1301/portfolio-website/static/media/hero-image.14c0a1dc5428c7fb8488.png",
+    "static/media/Pnw.jpg": "/Chaitanya1301/portfolio-website/static/media/Pnw.5e06644565c46370a125.jpg",
+    "static/media/oop.png": "/Chaitanya1301/portfolio-website/static/media/oop.99bed27436bdeeb14c66.png",
+    "static/media/system.png": "/Chaitanya1301/portfolio-website/static/media/system.3b86fce2235f6ea3b324.png",
+    "static/media/camp.png": "/Chaitanya1301/portfolio-website/static/media/camp.c9a4cc789582cb05ae91.png",
+    "static/media/netflix.png": "/Chaitanya1301/portfolio-website/static/media/netflix.0e5c9877e71a1eb7a42b.png",
+    "static/media/hacker.png": "/Chaitanya1301/portfolio-website/static/media/hacker.e0b25d6e828d776241ff.png",
+    "index.html": "/Chaitanya1301/portfolio-website/index.html",
+    "main.0b3541c4.css.map": "/Chaitanya1301/portfolio-website/static/css/main.0b3541c4.css.map",
+    "main.0d9b76b6.js.map": "/Chaitanya1301/portfolio-website/static/js/main.0d9b76b6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0b3541c4.css",
+    "static/js/main.0d9b76b6.js"
+  ]
+}
