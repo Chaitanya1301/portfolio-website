@@ -4,16 +4,16 @@ import urlImage from "../assets/url.png";            // Import URL Shortener ima
 import hmsImage from "../assets/hms.png";            // Import Hotel Management System image
 import campImage from "../assets/camp.png";          // Import Camp Booking System image
 import todoImage from "../assets/todo.png";          // Import To Do App using Django image
-import expenseTrackerImage from "../assets/expense-tracker-app.png";  // Import Expense Tracker image
+import expenseTrackerImage from "../assets/MinesweeperImg.jpg";  // Import Expense Tracker image
 import weatherAppImage from "../assets/Wheather.png";                 // Import Weather App image
 
 const projects = [
   {
     id: 1,
-    name: "Expense Tracker",
+    name: "Mine Sweeper Game",
     technologies: "React, Node.js, Express.js, MongoDB, Bootstrap, Chart.js",
     image: expenseTrackerImage,
-    github: "https://github.com/vcr11/Expense-Tracker",
+    github: "https://github.com/Chaitanya1301/Minesweeper-Game",
   },
   {
     id: 2,
