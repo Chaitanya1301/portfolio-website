@@ -1,5 +1,5 @@
 import AmazonImage from '../assets/Amazon.png';  // Import the Amazon image
-import AccentureImage from '../assets/Accenture.png'; // Import the Nagarro image
+import AccentureImage from '../assets/AccentureLogo.png'; // Import the Nagarro image
 import KPMGImg from '../assets/KPMGImage.png';         // Import the RQB Technologies image
 
 const experience = [
