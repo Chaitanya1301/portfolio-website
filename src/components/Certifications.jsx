@@ -1,6 +1,6 @@
 import { useRef, useState, useEffect } from 'react'; // Import hooks
 
-import UdemyImage from '../assets/Udemy.png'; // GeeksforGeeks logo
+import UdemyImage from '../assets/udemy.png'; // GeeksforGeeks logo
 import UmImage from '../assets/um.png'; // University of Michigan logo
 import MicrosoftImg from '../assets/MicrosoftCertificate_ssc.png'; // Stanford University logo
 //import HackImage from '../assets/hacker.png'; // HackerRank logo
