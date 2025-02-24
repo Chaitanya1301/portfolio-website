@@ -1,18 +1,18 @@
 import { useRef, useState, useEffect } from 'react'; // Import hooks
 
-import GfgImage from '../assets/gfg.png'; // GeeksforGeeks logo
+import UdemyImage from '../assets/Udemy.png'; // GeeksforGeeks logo
 import UmImage from '../assets/um.png'; // University of Michigan logo
-import StanfordImage from '../assets/stanford.png'; // Stanford University logo
-import HackImage from '../assets/hacker.png'; // HackerRank logo
-import UcImage from '../assets/uc.png'; // UC San Diego logo
+import MicrosoftImg from '../assets/MicrosoftCertificate_ssc.png'; // Stanford University logo
+//import HackImage from '../assets/hacker.png'; // HackerRank logo
+//import UcImage from '../assets/uc.png'; // UC San Diego logo
 
 // Sample certifications data
 const certifications = [
   {
-    title: 'GeeksforGeeks',
-    description: 'Certified on completing Data Structures & Algorithms in Python on GeeksforGeeks.',
-    url: 'https://media.geeksforgeeks.org/courses/certificates/5e9a023e481298f3a7d2c852a1211b4e.pdf',
-    image: GfgImage
+    title: 'Udemy',
+    description: 'Certified on completing Data Structures & Algorithms in Python on Udemy.',
+    url: 'https://www.udemy.com/certificate/UC-bd9c54db-c013-4d8f-a59a-774d11751311/',
+    image: UdemyImage
   },
   {
     title: 'University of Michigan',
@@ -21,28 +21,10 @@ const certifications = [
     image: UmImage
   },
   {
-    title: 'HackerRank',
-    description: 'Certified on completing Problem Solving (Intermediate) on HackerRank.',
-    url: 'https://www.hackerrank.com/certificates/0c611192c4f7',
-    image: HackImage
-  },
-  {
-    title: 'HackerRank',
-    description: 'Certified on completing SQL (Intermediate) on HackerRank.',
-    url: 'https://www.hackerrank.com/certificates/e800302a6247',
-    image: HackImage
-  },
-  {
-    title: 'University of California, San Diego',
-    description: 'Certified on completing Object-Oriented Programming in Java on Coursera.',
-    url: 'https://www.coursera.org/account/accomplishments/verify/S77G98UEW7HW',
-    image: UcImage
-  },
-  {
-    title: 'Stanford University',
+    title: 'Microsoft Certified: Security, Compliance, and Identity Fundamentals',
     description: 'Certified on completing the Machine Learning course on Coursera.',
-    url: 'https://www.coursera.org/account/accomplishments/verify/3EW4P3QRV6V9',
-    image: StanfordImage
+    url: 'https://www.credly.com/badges/74cc25ac-8d8e-49e0-a3de-2dc92599fcc3/linked_in_profile',
+    image: MicrosoftImg
   },
   // Add more certifications as needed
 ];

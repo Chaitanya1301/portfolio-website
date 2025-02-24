@@ -10,16 +10,16 @@ const Footer = () => {
           justify-between items-center"
         >
           <p className="text-gray-400 dark:text-gray-300">
-            &copy; {new Date().getFullYear()} Chandra Shekar. All rights reserved.
+            &copy; {new Date().getFullYear()} Chaitanya. All rights reserved.
           </p>
           <div className="flex space-x-4 my-4 md:my-0">
-            <a href="https://www.linkedin.com/in/vcr11/" target="_blank" rel="noopener noreferrer" className="text-gray-400 hover:text-white dark:hover:text-gray-300">
+            <a href="https://www.linkedin.com/in/chaitanya-ginnela/" target="_blank" rel="noopener noreferrer" className="text-gray-400 hover:text-white dark:hover:text-gray-300">
               <FaLinkedin size={24} />
             </a>
-            <a href="https://github.com/vcr11" target="_blank" rel="noopener noreferrer" className="text-gray-400 hover:text-white dark:hover:text-gray-300">
+            <a href="https://github.com/Chaitanya1301" target="_blank" rel="noopener noreferrer" className="text-gray-400 hover:text-white dark:hover:text-gray-300">
               <FaGithub size={24} />
             </a>
-            <a href="mailto:chandrashekarreddyv2001@gmail.com" className="text-gray-400 hover:text-white dark:hover:text-gray-300">
+            <a href="mailto:g.chaitu1130@gmail.com" className="text-gray-400 hover:text-white dark:hover:text-gray-300">
               <AiOutlineMail size={24} />
             </a>
           </div>

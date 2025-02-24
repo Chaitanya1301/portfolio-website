@@ -33,7 +33,7 @@ const Navbar = () => {
       
       <div className='container mx-auto flex flex-col md:flex-row justify-between items-center'>
         <div className='text-2xl font-bold mb-4 md:mb-0'>
-          Chandra Shekar
+          Chaitanya
         </div>
         
         <div className='flex flex-col md:flex-row items-center md:space-x-6'>

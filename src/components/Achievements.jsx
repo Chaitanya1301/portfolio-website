@@ -1,5 +1,6 @@
 import { useRef, useState, useEffect } from 'react'; // Import hooks
-import { FaTrophy, FaStar, FaMedal } from 'react-icons/fa'; // Example icons
+import { FaTrophy, FaStar } from 'react-icons/fa'; // Example icons
+//import { FaTrophy, FaStar, FaMedal } from 'react-icons/fa';
 
 const achievements = [
   {
@@ -22,7 +23,7 @@ const achievements = [
   },
   {
     title: 'LeetCode',
-    description: 'Masterfully solved 800+ problems, showcasing adept problem-solving skills.',
+    description: 'Masterfully solved 100+ problems, showcasing adept problem-solving skills.',
     url: 'https://leetcode.com/u/Chaitu1130/', // LeetCode profile URL
     additionalLinks: [
       { name: 'LeetCode', url: 'https://leetcode.com/u/Chaitu1130/' }
