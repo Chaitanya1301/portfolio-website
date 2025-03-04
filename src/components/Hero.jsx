@@ -1,5 +1,5 @@
 import TypingEffect from 'react-typing-effect';
-import HeroImage from '../assets/hero-image.png';
+import HeroImage from '../assets/hero_image.png';
 
 const Hero = () => {
   return (
