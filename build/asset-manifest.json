@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/portfolio-website/static/css/main.0b3541c4.css",
+    "main.js": "/portfolio-website/static/js/main.6f52dc78.js",
+    "static/media/todo.png": "/portfolio-website/static/media/todo.69e39942b3b94698602e.png",
+    "static/media/Wheather.png": "/portfolio-website/static/media/Wheather.50dcc598fbd1938441d7.png",
+    "static/media/Algorthims.png": "/portfolio-website/static/media/Algorthims.095fd49371f148e20f51.png",
+    "static/media/udemy.png": "/portfolio-website/static/media/udemy.fa7ab8ca41160c4f183b.png",
+    "static/media/hms.png": "/portfolio-website/static/media/hms.41083f10d892866c68de.png",
+    "static/media/url.png": "/portfolio-website/static/media/url.46743299fa3c2e4db462.png",
+    "static/media/Chaitanya_Ginnela_Resume.pdf": "/portfolio-website/static/media/Chaitanya_Ginnela_Resume.6f1484c534bd7bed5fe6.pdf",
+    "static/media/vtr.png": "/portfolio-website/static/media/vtr.7e407f6da2489277e2e3.png",
+    "static/media/MinesweeperImg.jpg": "/portfolio-website/static/media/MinesweeperImg.1fe6ac2136f0de460ce1.jpg",
+    "static/media/Pnw.jpg": "/portfolio-website/static/media/Pnw.5e06644565c46370a125.jpg",
+    "static/media/AccentureLogo.png": "/portfolio-website/static/media/AccentureLogo.25dc2e935d71afc53dbe.png",
+    "static/media/MicrosoftCertificate_ssc.png": "/portfolio-website/static/media/MicrosoftCertificate_ssc.f7a894e9b2d75b580c5a.png",
+    "static/media/hero_image.png": "/portfolio-website/static/media/hero_image.4e4e3492cc2795b116f5.png",
+    "static/media/oop.png": "/portfolio-website/static/media/oop.99bed27436bdeeb14c66.png",
+    "static/media/system.png": "/portfolio-website/static/media/system.3b86fce2235f6ea3b324.png",
+    "static/media/camp.png": "/portfolio-website/static/media/camp.c9a4cc789582cb05ae91.png",
+    "static/media/netflix.png": "/portfolio-website/static/media/netflix.0e5c9877e71a1eb7a42b.png",
+    "index.html": "/portfolio-website/index.html",
+    "main.0b3541c4.css.map": "/portfolio-website/static/css/main.0b3541c4.css.map",
+    "main.6f52dc78.js.map": "/portfolio-website/static/js/main.6f52dc78.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0b3541c4.css",
+    "static/js/main.6f52dc78.js"
+  ]
+}
