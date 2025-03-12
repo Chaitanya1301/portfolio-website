@@ -1,11 +1,9 @@
-import netflixImage from "../assets/netflix.png";    // Import Netflix Clone image
-import vtrImage from "../assets/vtr.png";            // Import Virtual Try-On Room image
 import urlImage from "../assets/url.png";            // Import URL Shortener image
-import hmsImage from "../assets/hms.png";            // Import Hotel Management System image
-import campImage from "../assets/camp.png";          // Import Camp Booking System image
-import todoImage from "../assets/todo.png";          // Import To Do App using Django image
 import expenseTrackerImage from "../assets/MinesweeperImg.jpg";  // Import Expense Tracker image
+import stableDiffusion from "../assets/Stable_diffusion.png";
 import weatherAppImage from "../assets/Wheather.png";                 // Import Weather App image
+import threatImage from "../assets/threat.png"; 
+import ManagementImage from "../assets/weekly_Management.jpg"; 
 
 const projects = [
   {
@@ -17,53 +15,34 @@ const projects = [
   },
   {
     id: 2,
-    name: "Weather App",
-    technologies: "React, Redux, API Integration",
-    image: weatherAppImage,
-    github: "https://github.com/vcr11/Wheather-APP",
-    liveDemo: "https://vcr11.github.io/Wheather-APP/",
+    name: "Stable Diffusion",
+    technologies: "Python, PyTorch, Torchvision, Latent Diffusion Model, GPU, Matplotlib, Numpy",
+    image: stableDiffusion,
+    github: "https://github.com/Chaitanya1301/stable-diffusion-project",
   },
   {
     id: 3,
-    name: "Netflix Clone",
-    technologies: "Python, Django, SQL",
-    image: netflixImage,
-    github: "https://github.com/vcr11/Netflix_clone",
+    name: "Weather App",
+    technologies: "React, Redux, API Integration",
+    image: weatherAppImage,
   },
   {
     id: 4,
-    name: "Virtual Try-On Room",
-    technologies: "Python, Flask, OpenCV, MySQL",
-    image: vtrImage,
-    github: "https://github.com/vcr11/VTR",
-  },
-  {
-    id: 5,
     name: "URL Shortener",
     technologies: "Python, Django",
     image: urlImage,
-    github: "https://github.com/vcr11/url-shortener",
+  },
+  {
+    id: 5,
+    name: "Threat Object Detection Using Deep Learning",
+    technologies: "Python",
+    image: threatImage,
   },
   {
     id: 6,
-    name: "Hotel Management System",
-    technologies: "Python",
-    image: hmsImage,
-    github: "https://github.com/vcr11/HMS",
-  },
-  {
-    id: 7,
-    name: "Camp Booking System",
-    technologies: "C#, .NET, React",
-    image: campImage,
-    github: "https://github.com/vcr11/Camp-Booking-System",
-  },
-  {
-    id: 8,
-    name: "To Do App using Django",
-    technologies: "Python, Django",
-    image: todoImage,
-    github: "https://github.com/vcr11/To-do-App-using-Django-",
+    name: "Weekly Event Management System",
+    technologies: "JavaScript, HTML5/CSS , Django, PostgreSQL, Data Structures, Excel",
+    image: ManagementImage,
   },
 ];
 
