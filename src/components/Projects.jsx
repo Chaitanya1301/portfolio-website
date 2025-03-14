@@ -1,5 +1,4 @@
 import urlImage from "../assets/url.png";            // Import URL Shortener image
-import expenseTrackerImage from "../assets/MinesweeperImg.jpg";  // Import Expense Tracker image
 import stableDiffusion from "../assets/Stable_diffusion.png";
 import weatherAppImage from "../assets/Wheather.png";                 // Import Weather App image
 import threatImage from "../assets/threat.png"; 
@@ -8,38 +7,31 @@ import ManagementImage from "../assets/weekly_Management.jpg";
 const projects = [
   {
     id: 1,
-    name: "Mine Sweeper Game",
-    technologies: "React, Node.js, Express.js, MongoDB, Bootstrap, Chart.js",
-    image: expenseTrackerImage,
-    github: "https://github.com/Chaitanya1301/Minesweeper-Game",
-  },
-  {
-    id: 2,
     name: "Stable Diffusion",
     technologies: "Python, PyTorch, Torchvision, Latent Diffusion Model, GPU, Matplotlib, Numpy",
     image: stableDiffusion,
     github: "https://github.com/Chaitanya1301/stable-diffusion-project",
   },
   {
-    id: 3,
+    id: 2,
     name: "Weather App",
     technologies: "React, Redux, API Integration",
     image: weatherAppImage,
   },
   {
-    id: 4,
+    id: 3,
     name: "URL Shortener",
     technologies: "Python, Django",
     image: urlImage,
   },
   {
-    id: 5,
+    id: 4,
     name: "Threat Object Detection Using Deep Learning",
     technologies: "Python",
     image: threatImage,
   },
   {
-    id: 6,
+    id: 5,
     name: "Weekly Event Management System",
     technologies: "JavaScript, HTML5/CSS , Django, PostgreSQL, Data Structures, Excel",
     image: ManagementImage,
