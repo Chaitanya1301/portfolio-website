@@ -31,6 +31,7 @@ const projects = [
     name: "URL Shortener",
     technologies: "Python, Django",
     image: urlImage,
+    github: "https://github.com/Chaitanya1301/url-shortener"
   },
   {
     id: 5,

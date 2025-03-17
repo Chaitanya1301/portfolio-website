@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/portfolio-website/static/css/main.0b3541c4.css",
-    "main.js": "/portfolio-website/static/js/main.af756f3d.js",
+    "main.js": "/portfolio-website/static/js/main.c07e974e.js",
     "static/media/threat.png": "/portfolio-website/static/media/threat.1434a4255edd68402316.png",
     "static/media/Stable_diffusion.png": "/portfolio-website/static/media/Stable_diffusion.0ced184cd544f4101417.png",
     "static/media/Wheather.png": "/portfolio-website/static/media/Wheather.50dcc598fbd1938441d7.png",
@@ -10,6 +10,7 @@
     "static/media/url.png": "/portfolio-website/static/media/url.46743299fa3c2e4db462.png",
     "static/media/Chaitanya_Ginnela_Resume.pdf": "/portfolio-website/static/media/Chaitanya_Ginnela_Resume.6f1484c534bd7bed5fe6.pdf",
     "static/media/weekly_Management.jpg": "/portfolio-website/static/media/weekly_Management.d6759b7163535f7a1390.jpg",
+    "static/media/MinesweeperImg.jpg": "/portfolio-website/static/media/MinesweeperImg.1fe6ac2136f0de460ce1.jpg",
     "static/media/Pnw.jpg": "/portfolio-website/static/media/Pnw.5e06644565c46370a125.jpg",
     "static/media/AccentureLogo.png": "/portfolio-website/static/media/AccentureLogo.25dc2e935d71afc53dbe.png",
     "static/media/MicrosoftCertificate_ssc.png": "/portfolio-website/static/media/MicrosoftCertificate_ssc.f7a894e9b2d75b580c5a.png",
@@ -18,10 +19,10 @@
     "static/media/system.png": "/portfolio-website/static/media/system.3b86fce2235f6ea3b324.png",
     "index.html": "/portfolio-website/index.html",
     "main.0b3541c4.css.map": "/portfolio-website/static/css/main.0b3541c4.css.map",
-    "main.af756f3d.js.map": "/portfolio-website/static/js/main.af756f3d.js.map"
+    "main.c07e974e.js.map": "/portfolio-website/static/js/main.c07e974e.js.map"
   },
   "entrypoints": [
     "static/css/main.0b3541c4.css",
-    "static/js/main.af756f3d.js"
+    "static/js/main.c07e974e.js"
   ]
 }
