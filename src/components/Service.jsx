@@ -6,34 +6,30 @@ const experience = [
   {
     company: "Accenture Private Limited Solutions",
     image: AccentureImage,
-    position: "Apllication Development Analyst",
+    position: "Software Engineer II",
     duration: "Mar 2023 – Aug 2023",
     location: "Telangana, India",
     details: [
-      "Designed, analyzed, and implemented D365 objects (tables, forms, classes, data entities, security privileges, and menu items), automating business processes and reducing manual work by 40%.",
-      "Debugged and optimized X++ code, increasing operational efficiency by 30% and automating routine operations with Root Cause Analysis methods.",
-      "Created custom forms with .NET, leveraging API Development for automated data retrieval, reducing access times by 20%, and improving performance features.",
-      "Reduced system bugs by 95% and enhanced customer satisfaction through Agile development practices and iterative improvements.",
-      "Utilized CI/CD pipelines in Azure DevOps to efficiently deploy D365 solutions, reducing manual deployment efforts and ensuring seamless version control. Managed repository organization in Azure to optimize code deployment processes and minimize release errors.",
-      "Collaborated in meetings with clients to gather requirements, provide technical guidance, and contribute strategic insights for project improvements.",
-      "Conducted Unit Testing, Regression Testing, and Software Testing to ensure system reliability and performance.",
-      "Led investigations and root cause analysis for critical issues using D365 and DAX 2012, developing automated troubleshooting scripts that reduced manual intervention by 25%.",
-      "Collaborated with cross-functional teams using agile methodologies and resolved 30+ bugs, improving site stability and reducing user-reported issues by 25%.",
+      "Designed and maintained full-stack applications using .NET Core, Angular, and SQL Server, improving UI responsiveness and reducing user-reported production issues by 30%.",
+      "Developed and deployed 25+ RESTful APIs powering healthcare and financial modules, enhancing backend–frontend data integration speed by 25% and enabling real-time analytics.",
+      "Built 10+ SSIS/ETL packages to automate nightly data refresh cycles and large-scale transactional processing of 1M+ records/day, eliminating 90% of manual data operations.",
+      "Optimized SQL stored procedures and queries, reducing query runtime by 35% and boosting overall system throughput for high-volume reporting workloads.",
+      "Implemented CI/CD pipelines in Azure DevOps, enabling gated approvals, unit-test automation, and zero-downtime releases—cutting deployment time by 40%.",
+      "Integrated microservices and API-based architecture for modular deployment across multiple environments, ensuring scalability and fault isolation.",
     ],
   },
   {
     company: "Accenture Private Limited Solutions",
     image: AccentureImage,
-    position: "Apllication Development Associate",
+    position: "Software Engineer I",
     duration: "Sep 2021 – Mar 2023",
     location: "Telangana, India",
     details: [
-      "Worked on 2 projects simultaneously—one providing support and maintenance for an existing project, and the other focused on developing a new system using D365/DAX 2012 Technology.",
-      "Designed and implemented 4 real-time forms, including one for contactless card payment transaction details, ensuring 100% validation coverage for all scenarios.",
-      "Developed 5+ APIs using Swagger or client-specified API standards and optimized 20+ database queries to enhance system performance.",
-      "Conducted 5+ knowledge transfer (KT) sessions for peers, improving onboarding efficiency and strengthening team collaboration.",
-      "Resolved 50+ critical issues, reducing bug percentage to 5%, and ensuring a 95%+ defect-free product delivery to the client.",
-      "Utilized LCS and DevOps work items to manage and deploy 10+ projects, streamlining development and deployment workflows.",
+      "Developed Python-based automation scripts for error monitoring, API validation, and log parsing, reducing manual debugging efforts by 25%.",
+      "Enhanced frontend maintainability by building reusable Angular components (Reactive Forms, RxJS Streams, shared services), reducing code redundancy by 20%.",
+      "Configured OAuth2/JWT authentication and audit logging, strengthening application security and improving traceability coverage by 25%.",
+      "Mentored a team of 4 junior developers, guiding them on debugging, version control (Git), and clean code practices—improving sprint velocity by 15%.",
+      "Collaborated in Agile Scrum teams with QA, DevOps, and product owners, maintaining 99.5% system uptime and ensuring 100% sprint delivery compliance.",
     ],
   },
   {
@@ -64,7 +60,7 @@ const Experience = () => {
               <img
                 src={exp.image}
                 alt={exp.company}
-                className="w-16 h-16 object-cover rounded-full"
+                className="w-20 h-16 object-contain bg-white rounded-lg p-1"
               />
               <div>
                 <h3 className="text-2xl font-bold text-transparent bg-clip-text 

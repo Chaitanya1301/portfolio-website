@@ -2,7 +2,7 @@ import { useRef, useState, useEffect } from 'react';
 import LinkedInImage from '../assets/linkedin.png';
 import GitHubImage from '../assets/github.png';
 import MailImage from '../assets/mail.png';
-import ResumePDF from '../assets/Chaitanya_Ginnela_Resume.pdf';
+import ResumePDF from '../assets/Chaitanya_G_Software_Engineer.pdf';
 import LeetCodeImage from '../assets/LeetCode.png';
 
 const About = () => {
@@ -48,13 +48,13 @@ const About = () => {
               in software development, data engineering, cloud solutions, and machine learning. My technical expertise includes 
               Python, Java, C#, and cloud platforms such as AWS and Microsoft Azure. I have worked on optimizing data pipelines, 
               implementing scalable cloud architectures, and developing machine learning models for intelligent automation. 
-              I am currently seeking Summer 2025 internship and full-time opportunities in software engineering, data engineering, 
+              I am currently seeking full-time opportunities in software engineering, data engineering, 
               cloud engineering, and machine learning, where I can contribute, learn, and grow in a challenging environment.
             </p>
             <p className="text-lg mb-8 text-justify">
               My achievements include securing first prize in a college coding competition among 500 participants and 
               earning certifications such as Python for Everybody (Coursera) and Data Structures & Algorithms in Python 
-              (Udemy). I have solved over 100 coding challenges across platforms like LeetCode, GFG.
+              (Udemy). I have solved over 250 coding challenges across platforms like LeetCode, GFG.
             </p>
             <div className="flex justify-center items-center space-x-6 my-8">
               <a href="https://www.linkedin.com/in/chaitanya-ginnela/" target="_blank" rel="noopener noreferrer"

@@ -23,7 +23,7 @@ const achievements = [
   },
   {
     title: 'LeetCode',
-    description: 'Masterfully solved 100+ problems, showcasing adept problem-solving skills.',
+    description: 'Masterfully solved 250+ problems, showcasing adept problem-solving skills.',
     url: 'https://leetcode.com/u/Chaitu1130/', // LeetCode profile URL
     additionalLinks: [
       { name: 'LeetCode', url: 'https://leetcode.com/u/Chaitu1130/' }

@@ -25,6 +25,8 @@ const projects = [
     name: "Weather App",
     technologies: "React, Redux, API Integration",
     image: weatherAppImage,
+    github: "https://github.com/Chaitanya1301/Weather-APP",
+    liveDemo: "https://chaitanya1301.github.io/Weather-APP/"
   },
   {
     id: 4,

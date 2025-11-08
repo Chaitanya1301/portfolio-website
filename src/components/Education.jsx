@@ -10,7 +10,7 @@ const education = [
     image: Pnwimg
   },
   {
-    institution: "Jawaharlal Nehru Technological University",
+    institution: "Mahatma Gandhi Institute Of Technology",
     degree: "Bachelor of Technology in Electronics and Communication",
     duration: "Graduated: June 2021",
     gpa: "GPA: 7.84/10.0",
