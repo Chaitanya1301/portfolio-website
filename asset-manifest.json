@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/portfolio-website/static/css/main.ce400826.css",
-    "main.js": "/portfolio-website/static/js/main.4fc898d6.js",
+    "main.js": "/portfolio-website/static/js/main.5c2259d1.js",
     "static/media/threat.png": "/portfolio-website/static/media/threat.1434a4255edd68402316.png",
     "static/media/Chaitanya_G_Software_Engineer.pdf": "/portfolio-website/static/media/Chaitanya_G_Software_Engineer.8cc8ba84dc7e3d98e038.pdf",
     "static/media/Stable_diffusion.png": "/portfolio-website/static/media/Stable_diffusion.0ced184cd544f4101417.png",
@@ -9,6 +9,7 @@
     "static/media/Algorthims.png": "/portfolio-website/static/media/Algorthims.095fd49371f148e20f51.png",
     "static/media/udemy.png": "/portfolio-website/static/media/udemy.fa7ab8ca41160c4f183b.png",
     "static/media/url.png": "/portfolio-website/static/media/url.46743299fa3c2e4db462.png",
+    "static/media/Finance_Tracker.png": "/portfolio-website/static/media/Finance_Tracker.f7ea62752c7c87c00c6c.png",
     "static/media/weekly_Management.jpg": "/portfolio-website/static/media/weekly_Management.d6759b7163535f7a1390.jpg",
     "static/media/MinesweeperImg.jpg": "/portfolio-website/static/media/MinesweeperImg.1fe6ac2136f0de460ce1.jpg",
     "static/media/Pnw.jpg": "/portfolio-website/static/media/Pnw.5e06644565c46370a125.jpg",
@@ -19,10 +20,10 @@
     "static/media/system.png": "/portfolio-website/static/media/system.3b86fce2235f6ea3b324.png",
     "index.html": "/portfolio-website/index.html",
     "main.ce400826.css.map": "/portfolio-website/static/css/main.ce400826.css.map",
-    "main.4fc898d6.js.map": "/portfolio-website/static/js/main.4fc898d6.js.map"
+    "main.5c2259d1.js.map": "/portfolio-website/static/js/main.5c2259d1.js.map"
   },
   "entrypoints": [
     "static/css/main.ce400826.css",
-    "static/js/main.4fc898d6.js"
+    "static/js/main.5c2259d1.js"
   ]
 }
