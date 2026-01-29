@@ -1,4 +1,5 @@
 import urlImage from "../assets/url.png";            // Import URL Shortener image
+import ecommerceImage from "../assets/ecommerce.jpg";  // Import E-Commerce Application image
 import expenseTrackerImage from "../assets/MinesweeperImg.jpg";  // Import Expense Tracker image
 import stableDiffusion from "../assets/Stable_diffusion.png";
 import weatherAppImage from "../assets/Wheather.png";                 // Import Weather App image
@@ -9,27 +10,34 @@ import financeTrackerImage from "../assets/Finance_Tracker.png"; // Import Finan
 const projects = [
   {
   id: 1,
+  name: "E-Commerce Application (Spring Boot + React)",
+  technologies: "Java, Spring Boot, Spring Security, JWT, PostgreSQL, Flyway, React, Redux, Ant Design, REST APIs",
+  image: ecommerceImage,
+  github: "https://github.com/Chaitanya1301/E-Commerce-Application.git",
+  },
+  {
+  id: 2,
   name: "FinTrack AI – Expense & Income Tracker",
   technologies: "React, Node.js, Express.js, Supabase (PostgreSQL), Styled Components, REST APIs",
   image: financeTrackerImage,
   github: "https://github.com/Chaitanya1301/FinTrack-AI",
   },
   {
-    id: 2,
+    id: 3,
     name: "Mine Sweeper Game",
     technologies: "React, Node.js, Express.js, MongoDB, Bootstrap, Chart.js",
     image: expenseTrackerImage,
     github: "https://github.com/Chaitanya1301/Minesweeper-Game",
   },
   {
-    id: 3,
+    id: 4,
     name: "Stable Diffusion",
     technologies: "Python, PyTorch, Torchvision, Latent Diffusion Model, GPU, Matplotlib, Numpy",
     image: stableDiffusion,
     github: "https://github.com/Chaitanya1301/stable-diffusion-project",
   },
   {
-    id: 4,
+    id: 5,
     name: "Weather App",
     technologies: "React, Redux, API Integration",
     image: weatherAppImage,
@@ -37,20 +45,20 @@ const projects = [
     liveDemo: "https://chaitanya1301.github.io/Weather-APP/"
   },
   {
-    id: 5,
+    id: 6,
     name: "URL Shortener",
     technologies: "Python, Django",
     image: urlImage,
     github: "https://github.com/Chaitanya1301/url-shortener"
   },
   {
-    id: 6,
+    id: 7,
     name: "Threat Object Detection Using Deep Learning",
     technologies: "Python",
     image: threatImage,
   },
   {
-    id: 7,
+    id: 8,
     name: "Weekly Event Management System",
     technologies: "JavaScript, HTML5/CSS , Django, PostgreSQL, Data Structures, Excel",
     image: ManagementImage,
